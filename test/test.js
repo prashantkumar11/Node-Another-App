@@ -4,7 +4,6 @@ var assert = require('assert'),
 //Added by Prashant
 //Added By Prashant locally
 
-
 var answer;
 var user = {
     name: 'tj',
