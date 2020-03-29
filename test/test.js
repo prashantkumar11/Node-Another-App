@@ -11,6 +11,8 @@ var user = {
     pets: ['tobi', 'loki', 'jane', 'bandit']
 };
 
+
+
 //Added by Prashant
 
 var foo = 'bar',
